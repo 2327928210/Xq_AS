@@ -10,7 +10,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:paddingTop="@dimen/layout_y_10" >
+        android:layout_marginTop="@dimen/layout_y_12"
+        android:layout_marginLeft="@dimen/layout_x_70"
+        android:layout_marginRight="@dimen/layout_x_60"
+        android:background="@drawable/shape_login_listview">
     </ListView>
 
 </RelativeLayout>

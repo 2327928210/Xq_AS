@@ -2,14 +2,18 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="@drawable/shape_login_listview">
 
     <LinearLayout
         android:id="@+id/lin_user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="@dimen/layout_x_15"
-        android:background="@drawable/white_bt" >
+        android:background="@drawable/white_bt"
+        android:paddingTop="@dimen/layout_y_12"
+        android:paddingBottom="@dimen/layout_y_12"
+        android:paddingLeft="@dimen/layout_x_20"
+        android:paddingRight="@dimen/layout_x_10">
 
         <TextView
             android:id="@+id/tv_phone"
