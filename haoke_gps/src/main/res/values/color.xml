@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_color">#0a0a0a</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="red">#f00</color>
+    <color name="blue">#001b68</color>
+    <color name="white">#FFF</color>
+    <color name="white_3">#3FFF</color>
+    <color name="white_a">#aFFF</color>
+    <color name="bt_color">#31aaff</color>
+    <color name="Switch_color">#54FF9F</color>
+    <color name="transparent_bg">#88000000</color>
+    <color name="pink_color">#aaafbcff</color>
+    <color name="transparent_white">#dfff</color>
+    <color name="del_color">#FF6759</color>
+    <color name="ele_color">#55FF6759</color>
+    <color name="location_color">#f9f2f2</color>
+
+    <!-- gray -->
+    <color name="gray_6">#666</color>
+    <color name="gray">#ededed</color>
+    <color name="gray_a">#aaa</color>
+    <color name="gray_b">#bbb</color>
+    <color name="text_gray">#BABABA</color>
+    <color name="gray_code">#848484</color>
+    <color name="text_black">#7A7A7A</color>
+
+    <!-- login button -->
+    <color name="login_button_p">#026e9e</color>
+    <color name="login_line">#9ae0f5</color>
+    <color name="login_text">#028ac6</color>
+
+    <!-- 电子围栏 -->
+    <color name="transparent_main_color">#552a8efe</color>
+    <!-- 二维码 -->
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+
+</resources>
