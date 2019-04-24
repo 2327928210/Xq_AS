@@ -2,7 +2,7 @@
 <resources>
 
     <string name="device_no_line">El equipo no está en línea</string>
-   <string name="device_info_ks">¿Está seguro de que la cerradura?</string>
+    <string name="device_info_ks">¿Está seguro de que la cerradura?</string>
     <string name="device_info_door_close">Lock</string>
     <string name="device_info_door_open">Desbloquear</string>
     <string name="device_info_mode_default">(El intervalo de tiempo de 60 segundos)</string>
@@ -246,5 +246,5 @@
     <string name="permission_camera">Con el fin de garantizar el funcionamiento normal de la aplicación, la necesidad de obtener permiso de la Cámara</string>
     <string name="permission">La autorización</string>
     <string name="permission_active">La autorización</string>
-
+    <string name="url_error">Servidor web</string>
 </resources>

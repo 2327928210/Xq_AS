@@ -246,5 +246,5 @@
     <string name="permission_camera">为了保证应用正常运行，需要获取相机权限</string>
     <string name="permission">授权</string>
     <string name="permission_active">手动授权</string>
-
+    <string name="url_error">服务器异常</string>
 </resources>

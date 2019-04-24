@@ -246,5 +246,5 @@
     <string name="permission_camera">Con el fin de garantizar el funcionamiento normal de la aplicación, la necesidad de obtener permiso de la Cámara</string>
     <string name="permission">La autorización</string>
     <string name="permission_active">La autorización</string>
-
+    <string name="url_error">Servidor web</string>
 </resources>

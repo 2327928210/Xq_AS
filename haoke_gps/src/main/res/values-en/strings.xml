@@ -246,5 +246,5 @@
     <string name="permission_camera">In order to ensure the normal operation of the application, you need to obtain camera privileges</string>
     <string name="permission">Authorization</string>
     <string name="permission_active">Active authorization</string>
-
+    <string name="url_error">Server exception</string>
 </resources>
